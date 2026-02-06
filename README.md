@@ -11,12 +11,14 @@ Welcome to Love — a fun, interactive web experience built with HTML, CSS & Jav
 📂 Simple structure — easy to customize and extend
 
 📁 What's Inside
-File	Purpose
-index.html	Main landing page
-yes.html	“Yes” response page
-no1.html, no2.html, no3.html	Different fun “No” outcomes
-style.css	All custom styles and layout
-script.js	JavaScript logic for interactions
+| File                               | Purpose                           |
+| ---------------------------------- | --------------------------------- |
+| `index.html`                       | Main landing page                 |
+| `yes.html`                         | “Yes” response page               |
+| `no1.html`, `no2.html`, `no3.html` | Different fun “No” outcomes       |
+| `style.css`                        | All custom styles and layout      |
+| `script.js`                        | JavaScript logic for interactions |
+
 🎨 Visual Preview
 
 (Add screenshots here if you want a preview of the UI!)
